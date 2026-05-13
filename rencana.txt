@@ -6,5 +6,6 @@
 - Menabung untuk kebutuhan masa depan
   *hidup secara hemat
   *membeli barang seperlunya
+   ^menabung
 - Membantu dan membanggakan orang tua
 - Menjadi pribadi yang lebih mandiri dan bertanggung jawab
